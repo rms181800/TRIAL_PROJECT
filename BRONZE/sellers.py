@@ -11,8 +11,7 @@
 # COMMAND ----------
 
 # DBTITLE 1,Calling Function
-# MAGIC %md
-# MAGIC ## CALLING FUNCTION NOTEBOOK
+
 
 # COMMAND ----------
 
